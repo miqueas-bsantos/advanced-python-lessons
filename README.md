@@ -1,0 +1,1 @@
+### This is examples of functions used in advanced python languagens
